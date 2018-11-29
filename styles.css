@@ -1,0 +1,42 @@
+
+h1{
+    text-align:center;
+}
+div{
+    display:flex;
+ justify-content:flex-start;
+}
+.section{
+    display:flex;
+}
+.menu{
+    width:100%;
+}
+.bio{
+    width:100%;
+}
+.facts{
+    width:10%;
+}
+.menu-container{
+    font-size:25px;
+}
+    .menu-container{
+        border-radius:50px;
+        opacity:1;
+}
+.menu-container{
+    border:10px double black;
+}
+h1{
+    border:10px double black;
+}
+Img{
+    width:500px;
+}
+button{
+    width:150px;
+}
+h1{
+    margin:100px;
+}
